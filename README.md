@@ -4,7 +4,13 @@ Useful apple scripts that I use for productivity.
 
 ## How to use
 
+For running a script, use the following format on terminal:
+
+```
+
 osascript <script_name>.scpt <arguments>
+
+```
 
 ## Scripts
 
